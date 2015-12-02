@@ -1,0 +1,43 @@
+h2 {
+    font-family:arial;
+}
+
+form {
+    display: inline-block;
+}
+
+#doing {
+  position: absolute;
+  top: 0px;
+  left: 400px;
+}
+
+#done {
+  position: absolute;
+  top: 0px;
+  left: 800px;
+}
+
+
+#button {
+  display: inline-block;
+  height:20px;
+	width:70px;
+	background-color:#cc0000;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+}
+
+.todo-list, .doing-list, .done-list, a {
+	font-family: Arial;
+	color:#cc0000;
+  text-decoration: none;
+}
+
+.stroke {
+  text-decoration: line-through;
+}
