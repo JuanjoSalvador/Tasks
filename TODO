@@ -2,4 +2,5 @@
 * Añadir las tareas además a un JSON HACK
 * Al eliminar un elemento de la lista, eliminar también del JSON HACK
 * Actualización inmediata HACK
-* Exportarlo como una aplicación de Chrome HACK
+
+* Migrar código a Angular
